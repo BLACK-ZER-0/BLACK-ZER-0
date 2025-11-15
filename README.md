@@ -1,69 +1,185 @@
-# 🛡️ TEAM SHADOW STRIKER 🕶️  
-## **Spammer | Tool Maker | Ethical Hacker**  
 
-Welcome to the **official member hub** of **TEAM SHADOW STRIKER** — where creativity meets innovation, and boundaries are pushed responsibly. This repository is a showcase of tools, designs, and scripts crafted by **Adi**, an ethical hacker and skilled spammer/tool maker.  
-***TEAM-SHADOW-STRIKER*** [github](https://github.com/TEAM-SHADOW-STRIKER)
+<!-- ===================== BLACK-ZER-0 | PREMIUM PORTFOLIO ===================== -->
 
----
+<div align="center">
 
-## 🌌 **WHO WE ARE**  
-TEAM SHADOW STRIKER is not just a team; it’s a **movement**. We stand for:  
-- **Innovation**: Crafting tools that are fast, powerful, and efficient.  
-- **Learning**: Sharing knowledge to empower the Termux community.  
-- **Responsibility**: Ethical hacking and responsible development.  
+<img src="https://i.ibb.co/CB4WDYB/gradient-banner.png" width="100%" />
 
-> **Tagline**: *"A Trusted Termux Learning Point"*  
+# 🖤 **BLACK-ZER-0**
+### Creator of **TEAM SHADOW STRIKER** × **BANGLADESH CYBER SQUAD**
 
----
+</div>
 
-## ⚡ **ABOUT ME**  
-I’m **Shonchouon Barua Adirtta**, an ethical hacker passionate about:  
-- 🛠️ **Tool Creation**: Specialized in Termux tools for brute-forcing, spamming, and scanning.  
-- 🎨 **Designing**: Hacker-style logos, banners, and animations.  
-- 🔐 **Security Research**: Focused on ethical and responsible hacking.  
+<br>
 
-With a sharp focus on simplicity, speed, and performance, my tools are built to impress.  
+<!-- ===================== TWO COLUMN LAYOUT ===================== -->
 
----
+<table>
+<tr>
+<td width="45%" valign="top">
 
-## 🔥 **FEATURE HIGHLIGHTS**  
-- ⚡ **Cutting-Edge Tools**:  
-  - Sms Bombing
-  - DDoS attack 
-  - Website Scanner  
-  - Brute-Force Engines  
-  - Spammer Scripts  
+## 👤 About Me
+- Ethical Hacker  
+- Termux Tool Developer  
+- Python Automation Expert  
+- Bangladesh Cyber Security Community Member  
+- Creator of multiple high-performance CLI tools  
 
-- 🎨 **Hacker Aesthetics**:  
-  - Custom ASCII logos and banners.  
-  - Cool animations and smooth outputs.  
+### 🎯 Interests
+- Pentesting  
+- Network Scanning  
+- API Automation  
+- UI/UX CLI designing  
+- Security Research  
 
-- 🛡️ **Efficient & Lightweight**: Designed to perform at blazing speeds on Termux.  
+### 🔗 Connect With Me  
+[![GitHub](https://img.shields.io/badge/GitHub-BLACK--ZER--0-000?logo=github&logoColor=white)](https://github.com/BLACK-ZER-0)  
+[![Facebook](https://img.shields.io/badge/Facebook-Profile-1877F2?logo=facebook&logoColor=white)](https://facebook.com/ADIRTTA)  
+[![Telegram](https://img.shields.io/badge/Telegram-@adirtta__hack-28A5E4?logo=telegram&logoColor=white)](https://t.me/adirtta_hack)
 
 ---
 
-## 🧰 **REPOSITORY CONTENTS**  
-- **🚀 Tools**: Ethical hacking tools for education and learning.  
-- **🎭 Designs**: Custom hacker-style banners and logos.  
-- **📚 Documentation**: Step-by-step guides to ensure you’re always on track.  
+## 🧰 Tools I Build
+- Termux Security Tools  
+- Firewall Detector  
+- DDOS Assist Engines  
+- FB/IG/Gmail automation tools  
+- Network Scanner  
+- Fast OSINT utilities  
+- API-based Bangladeshi number tools  
+
+</td>
+
+
+<!-- ===================== RIGHT SIDE ===================== -->
+
+<td width="55%" valign="top">
+
+<div align="center">
+
+## ⚡ Animated Header  
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&pause=1200&color=00E5FF&center=true&vCenter=true&width=420&lines=BLACK+ZER-0;Ethical+Hacker;Termux+Developer;Team+Shadow+Striker;Bangladesh+Cyber+Squad" />
+
+</div>
 
 ---
 
-## ⚠️ **DISCLAIMER**  
-This repository is strictly for **educational purposes** only. Misuse of the tools or scripts for unethical purposes is **prohibited**. TEAM SHADOW STRIKER and I take no responsibility for any illegal actions or misuse. Use responsibly and ethically.  
+## 🛠️ Tech Stack  
+<div align="center">
+<img src="https://skillicons.dev/icons?i=python,bash,linux,go,js,html,css,git,github,sqlite,mysql,regex,fastapi,vscode&theme=dark" />
+</div>
 
 ---
 
-## 🌐 **CONNECT WITH ME**  
-- 🖤 **GitHub**: [ADIRTTA](https://github.com/ADIRTTA)  
-- 🔴 **Facebook**: [ADIRTTA](https://www.facebook.com/ADIRTTA)  
-- 🛡️ **TEAM SHADOW STRIKER**: The **ultimate learning platform** for Termux users, Spammer and Social media security.  
+## 📊 GitHub Stats  
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=BLACK-ZER-0&show_icons=true&theme=tokyonight&hide_border=true" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BLACK-ZER-0&layout=compact&theme=tokyonight&hide_border=true" width="49%" />
+</div>
 
 ---
 
-> **⭐ Pro Tip**: If you love this repository, don’t forget to star it and share it with fellow ethical hackers!
-> 
-## **🗝️ For script**
-- 🎃 **Contact in Telegram**: @adirtta_hack
-# FAVORITE PROGRAMING LANGUAGE 
-![Python Logo](https://www.python.org/static/community_logos/python-logo-master-v3-TM.png)
+## 🏆 GitHub Trophies  
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=BLACK-ZER-0&theme=algolia&no-frame=true&row=1&column=7" />
+</div>
+
+---
+
+## 📈 Contribution Graph  
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=BLACK-ZER-0&theme=react-dark&hide_border=true" />
+</div>
+
+</td>
+</tr>
+</table>
+
+
+---
+
+# 🚀 Highlighted Code Snippets
+
+## 🐍 Python – Professional Spinner Loader
+```python
+import sys, time, itertools
+
+spinner = itertools.cycle(['⠋','⠙','⠹','⠸','⠼','⠴','⠦','⠧','⠇','⠏'])
+
+def spin(text):
+    for _ in range(40):
+        sys.stdout.write(f"\r{text} " + next(spinner))
+        sys.stdout.flush()
+        time.sleep(0.08)
+    print(f"\r{text} ✔")
+
+spin("Initializing BLACK-ZER-0")
+````
+
+---
+
+## 🐚 Shell – Install If Needed
+
+```bash
+ensure_pkg(){
+  pkg="$1"
+  python3 -c "import importlib; importlib.import_module('$pkg')" 2>/dev/null ||
+  pip install --user "$pkg"
+}
+
+ensure_pkg yt_dlp
+```
+
+---
+
+## 🟦 Go – Mini Profile Struct
+
+```go
+package main
+import "fmt"
+
+type Info struct {
+    Name string
+    Team string
+}
+
+func main() {
+    me := Info{"BLACK-ZER-0", "Team Shadow Striker"}
+    fmt.Println(me)
+}
+```
+
+---
+
+## 🌐 HTML/CSS – Minimal Black Zero Card
+
+```html
+<div style="padding:20px;background:#111;border-radius:12px;color:white;width:300px;">
+  <h2>BLACK-ZER-0</h2>
+  <p>TEAM SHADOW STRIKER × BANGLADESH CYBER SQUAD</p>
+</div>
+```
+
+---
+
+# 🛡️ Teams
+
+<div align="center">
+
+## 🔥 TEAM SHADOW STRIKER
+
+## 🇧🇩 BANGLADESH CYBER SQUAD
+
+</div>
+
+---
+
+<div align="center">
+
+### ⭐ If you like my profile, support with a star!
+
+Built with ❤️ by **BLACK-ZER-0**
+
+</div>
+
+
