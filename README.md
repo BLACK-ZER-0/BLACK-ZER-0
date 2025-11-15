@@ -57,7 +57,7 @@
 
 <div align="center">
 
-## ⚡ Animated Header  
+## ⚡  
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&pause=1200&color=00E5FF&center=true&vCenter=true&width=420&lines=BLACK+ZER-0;Ethical+Hacker;Termux+Developer;Team+Shadow+Striker;Bangladesh+Cyber+Squad" />
 
 </div>
