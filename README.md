@@ -34,8 +34,8 @@
 
 ### 🔗 Connect With Me  
 [![GitHub](https://img.shields.io/badge/GitHub-BLACK--ZER--0-000?logo=github&logoColor=white)](https://github.com/BLACK-ZER-0)  
-[![Facebook](https://img.shields.io/badge/Facebook-Profile-1877F2?logo=facebook&logoColor=white)](https://facebook.com/ADIRTTA)  
-[![Telegram](https://img.shields.io/badge/Telegram-@adirtta__hack-28A5E4?logo=telegram&logoColor=white)](https://t.me/adirtta_hack)
+[![Facebook](https://img.shields.io/badge/Facebook-Profile-1877F2?logo=facebook&logoColor=white)](https://facebook.com/SHONCHOYON)  
+[![Telegram](https://img.shields.io/badge/Telegram-@I_am_Black_zEro-28A5E4?logo=telegram&logoColor=white)](https://t.me/I_am_Black_zEro)
 
 ---
 
