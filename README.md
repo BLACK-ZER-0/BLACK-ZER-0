@@ -3,7 +3,7 @@
 
 <div align="center">
 
-<img src="https://i.postimg.cc/gcHhpSxZ/black-Zer0.png" width="100%" />
+<img src="https://i.postimg.cc/mrxZt9k8/black-zero-banner.jpg" width="45%" />
 
 # 🖤 **BLACK-ZER-0**
 ### Member of **TEAM SHADOW STRIKER** × **BANGLADESH CYBER SQUAD**
