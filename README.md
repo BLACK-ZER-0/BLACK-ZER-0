@@ -100,7 +100,7 @@
 
 # 🚀 Highlighted Code Snippets
 
-## 🐍 Python – Professional Spinner Loader
+## 🐍 Python –  Spinner Loader
 ```python
 import sys, time, itertools
 
@@ -118,35 +118,63 @@ spin("Initializing BLACK-ZER-0")
 
 ---
 
-## 🐚 Shell – Install If Needed
+## 🐚 Shell – Spinner Loader
 
 ```bash
-ensure_pkg(){
-  pkg="$1"
-  python3 -c "import importlib; importlib.import_module('$pkg')" 2>/dev/null ||
-  pip install --user "$pkg"
+#!/bin/bash
+
+spinner=('⠋' '⠙' '⠹' '⠸' '⠼' '⠴' '⠦' '⠧' '⠇' '⠏')
+
+spin() {
+    local text="$1"
+    for i in {1..40}; do
+        printf "\r%s %s" "$text" "${spinner[i % ${#spinner[@]}]}"
+        sleep 0.08
+    done
+    printf "\r%s ✔\n" "$text"
 }
 
-ensure_pkg yt_dlp
+spin "Initializing"
 ```
 
 ---
 
-## 🟦 Go – Mini Profile Struct
+## 🟦 Go – Spinner Loader
 
 ```go
 package main
-import "fmt"
 
-type Info struct {
-    Name string
-    Team string
-}
+import (
+	"fmt"
+	"time"
+)
 
 func main() {
-    me := Info{"BLACK-ZER-0", "Team Shadow Striker"}
-    fmt.Println(me)
+	spinner := []string{"⠋","⠙","⠹","⠸","⠼","⠴","⠦","⠧","⠇","⠏"}
+	text := "Initializing"
+
+	for i := 0; i < 40; i++ {
+		fmt.Printf("\r%s %s", text, spinner[i % len(spinner)])
+		time.Sleep(80 * time.Millisecond)
+	}
+	fmt.Printf("\r%s ✔\n", text)
 }
+```
+# JAVA Script - Spinner Loader
+
+ ```js
+const spinner = ['⠋','⠙','⠹','⠸','⠼','⠴','⠦','⠧','⠇','⠏'];
+const text = "Initializing";
+
+let i = 0;
+const interval = setInterval(() => {
+    process.stdout.write(`\r${text} ${spinner[i % spinner.length]}`);
+    i++;
+    if (i === 40) {
+        clearInterval(interval);
+        process.stdout.write(`\r${text} ✔\n`);
+    }
+}, 80);
 ```
 
 ---
