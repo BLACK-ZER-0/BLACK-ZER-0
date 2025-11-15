@@ -139,7 +139,7 @@ spin "Initializing"
 
 ---
 
-## 🟦 Go – Spinner Loader
+## 🌀 Go – Spinner Loader
 
 ```go
 package main
@@ -160,7 +160,7 @@ func main() {
 	fmt.Printf("\r%s ✔\n", text)
 }
 ```
-## JAVA Script - Spinner Loader
+## 🛸 JAVA Script - Spinner Loader
 
  ```js
 const spinner = ['⠋','⠙','⠹','⠸','⠼','⠴','⠦','⠧','⠇','⠏'];
