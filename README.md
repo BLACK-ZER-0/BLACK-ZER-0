@@ -3,7 +3,7 @@
 
 <div align="center">
 
-<img src="https://i.ibb.co/CB4WDYB/gradient-banner.png" width="100%" />
+<img src="https://i.postimg.cc/gcHhpSxZ/black-Zer0.png" width="100%" />
 
 # 🖤 **BLACK-ZER-0**
 ### Creator of **TEAM SHADOW STRIKER** × **BANGLADESH CYBER SQUAD**
