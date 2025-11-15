@@ -28,7 +28,7 @@
 ### 🎯 Interests
 - Pentesting  
 - Network Scanning  
-- API Automation  
+- Website Hacking 
 - UI/UX CLI designing  
 - Security Research  
 
