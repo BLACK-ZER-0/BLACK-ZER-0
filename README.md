@@ -6,7 +6,7 @@
 <img src="https://i.postimg.cc/gcHhpSxZ/black-Zer0.png" width="100%" />
 
 # 🖤 **BLACK-ZER-0**
-### Creator of **TEAM SHADOW STRIKER** × **BANGLADESH CYBER SQUAD**
+### Member of **TEAM SHADOW STRIKER** × **BANGLADESH CYBER SQUAD**
 
 </div>
 
