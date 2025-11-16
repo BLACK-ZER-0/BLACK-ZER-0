@@ -177,6 +177,71 @@ const interval = setInterval(() => {
 }, 80);
 ```
 
+## 🧭 C - Spinner Loader
+```c
+#include <stdio.h>
+#include <unistd.h>
+
+int main() {
+    const char *spinner[] = {"⠋","⠙","⠹","⠸","⠼","⠴","⠦","⠧","⠇","⠏"};
+    const char *text = "Initializing";
+
+    for (int i = 0; i < 40; i++) {
+        printf("\r%s %s", text, spinner[i % 10]);
+        fflush(stdout);
+        usleep(80000); // 80ms
+    }
+
+    printf("\r%s ✔\n", text);
+    return 0;
+}use std::{thread, time::Duration, io::{self, Write}};
+
+fn main() {
+    let spinner = ["⠋","⠙","⠹","⠸","⠼","⠴","⠦","⠧","⠇","⠏"];
+    let text = "Initializing";
+
+    for i in 0..40 {
+        print!("\r{} {}", text, spinner[i % spinner.len()]);
+        io::stdout().flush().unwrap();
+        thread::sleep(Duration::from_millis(80));
+    }
+
+    print!("\r{} ✔\n", text);
+}
+```
+
+## ⚙️ RUST -  Spinner Loader
+
+```rust
+use std::{thread, time::Duration, io::{self, Write}};
+
+fn main() {
+    let spinner = ["⠋","⠙","⠹","⠸","⠼","⠴","⠦","⠧","⠇","⠏"];
+    let text = "Initializing";
+
+    for i in 0..40 {
+        print!("\r{} {}", text, spinner[i % spinner.len()]);
+        io::stdout().flush().unwrap();
+        thread::sleep(Duration::from_millis(80));
+    }
+
+    print!("\r{} ✔\n", text);
+}
+```
+## 💠 RUBY - Spinner Loader 
+
+```ruby
+spinner = ['⠋','⠙','⠹','⠸','⠼','⠴','⠦','⠧','⠇','⠏']
+text = "Initializing"
+
+40.times do |i|
+  print "\r#{text} #{spinner[i % spinner.length]}"
+  STDOUT.flush
+  sleep 0.08
+end
+
+puts "\r#{text} ✔"
+```
 ---
 
 ## 🌐 HTML/CSS – Minimal Black Zero Card
