@@ -66,7 +66,7 @@
 
 ## 🛠️ Tech Stack  
 <div align="center">
-<img src="https://skillicons.dev/icons?i=python,bash,kalilinux,go,js,ruby,rust,c,html,css,git,github,sqlite,mysqltheme=dark" />
+<img src="https://skillicons.dev/icons?i=python,bash,kali-linux,go,js,ruby,rust,c,html,css,git,github,sqlite,mysqltheme=dark" />
 </div>
 
 ---
