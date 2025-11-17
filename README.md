@@ -255,7 +255,12 @@ puts "\r#{text} ✔"
 
 ---
 
+<div align="center">
+	
 # 🛡️ Teams
+
+</div>
+
 
 <div align="center">
 
