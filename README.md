@@ -194,19 +194,6 @@ int main() {
 
     printf("\r%s ✔\n", text);
     return 0;
-}use std::{thread, time::Duration, io::{self, Write}};
-
-fn main() {
-    let spinner = ["⠋","⠙","⠹","⠸","⠼","⠴","⠦","⠧","⠇","⠏"];
-    let text = "Initializing";
-
-    for i in 0..40 {
-        print!("\r{} {}", text, spinner[i % spinner.len()]);
-        io::stdout().flush().unwrap();
-        thread::sleep(Duration::from_millis(80));
-    }
-
-    print!("\r{} ✔\n", text);
 }
 ```
 
