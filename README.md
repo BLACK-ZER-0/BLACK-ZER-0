@@ -73,8 +73,7 @@
 
 ## 📊 GitHub Stats  
 <div align="center">
-<img src="https://github-readme-stats-peguimasid.vercel.app/api?username=BLACK-ZER-0&show_icons=true&theme=tokyonight&hide_border=true
-" width="49%" />
+<img src="https://komarev.com/ghpvc/?username=BLACK-ZER-0&color=blueviolet&style=for-the-badge" width="49%" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BLACK-ZER-0&layout=compact&theme=tokyonight&hide_border=true" width="49%" />
 </div>
 
