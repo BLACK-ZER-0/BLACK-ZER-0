@@ -73,7 +73,8 @@
 
 ## 📊 GitHub Stats  
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=BLACK-ZER-0&show_icons=true&theme=tokyonight&hide_border=true" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api?username=BLACK-ZER-0&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1&random=123
+" width="49%" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BLACK-ZER-0&layout=compact&theme=tokyonight&hide_border=true" width="49%" />
 </div>
 
@@ -81,7 +82,8 @@
 
 ## 🏆 GitHub Trophies  
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=BLACK-ZER-0&theme=algolia&no-frame=true&row=1&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=BLACK-ZER-0&theme=algolia&no-frame=true&row=1&column=7&cache_seconds=1&random=123
+"/>
 </div>
 
 ---
