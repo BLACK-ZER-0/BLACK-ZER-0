@@ -74,7 +74,6 @@
 ## 📊 GitHub Stats  
 <div align="center">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BLACK-ZER-0&theme=tokyonight" width="55%" hight="50%"/>
-<img src="" width="49%" />
 </div>
 
 ---
