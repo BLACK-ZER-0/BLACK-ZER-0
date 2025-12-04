@@ -78,13 +78,6 @@
 
 ---
 
-## 🏆 GitHub Trophies  
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=BLACK-ZER-0&theme=algolia&no-frame=true&row=1&column=8"/>
-</div>
-
----
-
 ## 📈 Contribution Graph  
 <div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=BLACK-ZER-0&theme=react-dark&hide_border=true" />
